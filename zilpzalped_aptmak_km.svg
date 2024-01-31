@@ -1,0 +1,2460 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="780.0"
+   height="1587.0"
+   viewBox="0 0 780.0 1587.0"
+   version="1.1"
+   id="svg184"
+   sodipodi:docname="zilpzalped_aptmak_km.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs184" />
+  <sodipodi:namedview
+     id="namedview184"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.545"
+     inkscape:cx="304.53074"
+     inkscape:cy="104.85437"
+     inkscape:window-width="1920"
+     inkscape:window-height="1066"
+     inkscape:window-x="2160"
+     inkscape:window-y="1145"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g128" />
+  <style
+     id="style1">/* font and background color specifications */
+svg {
+    font-family: Jost,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-size: 12px;
+    font-kerning: normal;
+    text-rendering: optimizeLegibility;
+    fill: #24292e;
+}
+
+/* default key styling */
+rect {
+    fill: #f6f8fa;
+    stroke: #c9cccf;
+    stroke-width: 0;
+}
+
+/* color accent for combo boxes */
+rect.combo {
+    fill: #cdf;
+}
+
+/* color accent for held keys */
+rect.held, rect.combo.held {
+    fill: #fdd;
+}
+
+/* color accent for ghost (optional) keys */
+rect.ghost, rect.combo.ghost {
+    fill: #ddd;
+}
+
+text {
+    text-anchor: middle;
+    dominant-baseline: middle;
+}
+
+/* styling for layer labels */
+text.label {
+    font-weight: bold;
+    text-anchor: start;
+    stroke: white;
+    stroke-width: 4;
+    paint-order: stroke;
+}
+
+/* styling for combo tap, and key hold/shifted label text */
+text.combo, text.hold, text.shifted {
+    font-size: 11px;
+}
+
+text.hold {
+    text-anchor: middle;
+    dominant-baseline: auto;
+}
+
+text.shifted {
+    text-anchor: middle;
+    dominant-baseline: hanging;
+}
+
+/* styling for hold/shifted label text in combo box */
+text.combo.hold, text.combo.shifted {
+    font-size: 8px;
+}
+
+/* styling for combo dendrons */
+path {
+    stroke-width: 2;
+    stroke: gray;
+    fill: none;
+}
+</style>
+  <rect
+     style="fill:#1a1a1a;fill-opacity:1;stroke:#000000"
+     id="rect190"
+     width="779.84686"
+     height="1585.4502"
+     x="0.27949411"
+     y="1.3971863" />
+  <g
+     class="layer-APTMAK"
+     id="g64">
+    <text
+       x="30.0"
+       y="28.0"
+       class="label"
+       id="text1">APTMAK:</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="92.0"
+       y="109.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect1" />
+    <text
+       x="120.0"
+       y="137.0"
+       class="tap"
+       id="text2">W</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="152.0"
+       y="109.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect2" />
+    <text
+       x="180.0"
+       y="137.0"
+       class="tap"
+       id="text3">F</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="212.0"
+       y="109.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect3" />
+    <text
+       x="240.0"
+       y="137.0"
+       class="tap"
+       id="text4">P</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="272.0"
+       y="139.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect4" />
+    <text
+       x="300.0"
+       y="167.0"
+       class="tap"
+       id="text5">B</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="452.0"
+       y="139.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect5" />
+    <text
+       x="480.0"
+       y="167.0"
+       class="tap"
+       id="text6">J</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="512.0"
+       y="109.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect6" />
+    <text
+       x="540.0"
+       y="137.0"
+       class="tap"
+       id="text7">L</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="572.0"
+       y="109.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect7" />
+    <text
+       x="600.0"
+       y="137.0"
+       class="tap"
+       id="text8">U</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="632.0"
+       y="109.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect8" />
+    <text
+       x="660.0"
+       y="137.0"
+       class="tap"
+       id="text9">Y</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="32.0"
+       y="229.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect9" />
+    <text
+       x="60.0"
+       y="257.0"
+       class="tap"
+       id="text10">R</text>
+    <text
+       x="60.0"
+       y="283.0"
+       class="hold"
+       id="text11">LCTL</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="92.0"
+       y="169.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect11" />
+    <text
+       x="120.0"
+       y="197.0"
+       class="tap"
+       id="text12">S</text>
+    <text
+       x="120.0"
+       y="223.0"
+       class="hold"
+       id="text13">LALT</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="152.0"
+       y="169.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect13" />
+    <text
+       x="180.0"
+       y="197.0"
+       class="tap"
+       id="text14">T</text>
+    <text
+       x="180.0"
+       y="223.0"
+       class="hold"
+       id="text15">LGUI</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="212.0"
+       y="169.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect15" />
+    <text
+       x="240.0"
+       y="197.0"
+       class="tap"
+       id="text16">H</text>
+    <text
+       x="240.0"
+       y="223.0"
+       class="hold"
+       id="text17">LSFT</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="272.0"
+       y="199.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect17" />
+    <text
+       x="300.0"
+       y="227.0"
+       class="tap"
+       id="text18">K</text>
+    <text
+       x="300.0"
+       y="253.0"
+       class="hold"
+       id="text19">RALT</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="452.0"
+       y="199.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect19" />
+    <text
+       x="480.0"
+       y="227.0"
+       class="tap"
+       id="text20">X</text>
+    <text
+       x="480.0"
+       y="253.0"
+       class="hold"
+       id="text21">RALT</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="512.0"
+       y="169.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect21" />
+    <text
+       x="540.0"
+       y="197.0"
+       class="tap"
+       id="text22">N</text>
+    <text
+       x="540.0"
+       y="223.0"
+       class="hold"
+       id="text23">RSFT</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="572.0"
+       y="169.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect23" />
+    <text
+       x="600.0"
+       y="197.0"
+       class="tap"
+       id="text24">A</text>
+    <text
+       x="600.0"
+       y="223.0"
+       class="hold"
+       id="text25">RGUI</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="632.0"
+       y="169.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect25" />
+    <text
+       x="660.0"
+       y="197.0"
+       class="tap"
+       id="text26">I</text>
+    <text
+       x="660.0"
+       y="223.0"
+       class="hold"
+       id="text27">LALT</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="692.0"
+       y="229.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect27" />
+    <text
+       x="720.0"
+       y="257.0"
+       class="tap"
+       id="text28">O</text>
+    <text
+       x="720.0"
+       y="283.0"
+       class="hold"
+       id="text29">RCTL</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="92.0"
+       y="229.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect29" />
+    <text
+       x="120.0"
+       y="257.0"
+       class="tap"
+       id="text30">C</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="152.0"
+       y="229.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect30" />
+    <text
+       x="180.0"
+       y="257.0"
+       class="tap"
+       id="text31">G</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="212.0"
+       y="229.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect31" />
+    <text
+       x="240.0"
+       y="257.0"
+       class="tap"
+       id="text32">D</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="512.0"
+       y="229.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect32" />
+    <text
+       x="540.0"
+       y="257.0"
+       class="tap"
+       id="text33">M</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="572.0"
+       y="229.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect33" />
+    <text
+       x="600.0"
+       y="257.0"
+       class="tap"
+       id="text34"><tspan
+         x="600.0"
+         dy="-0.6em"
+         id="tspan33">;</tspan><tspan
+         x="600.0"
+         dy="1.2em"
+         id="tspan34">,</tspan></text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="632.0"
+       y="229.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect34" />
+    <text
+       x="660.0"
+       y="257.0"
+       class="tap"
+       id="text36"><tspan
+         x="660.0"
+         dy="-0.6em"
+         id="tspan35">:</tspan><tspan
+         x="660.0"
+         dy="1.2em"
+         id="tspan36">.</tspan></text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="242.0"
+       y="289.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect36" />
+    <text
+       x="270.0"
+       y="317.0"
+       class="tap"
+       id="text37">'</text>
+    <text
+       x="270.0"
+       y="343.0"
+       class="hold"
+       id="text38">NUM</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="302.0"
+       y="289.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect38" />
+    <text
+       x="330.0"
+       y="317.0"
+       class="tap"
+       id="text39">SPACE</text>
+    <text
+       x="330.0"
+       y="343.0"
+       class="hold"
+       id="text40">NAV</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="422.0"
+       y="289.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect40" />
+    <text
+       x="450.0"
+       y="317.0"
+       class="tap"
+       id="text41">E</text>
+    <text
+       x="450.0"
+       y="343.0"
+       class="hold"
+       id="text42">SYM</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="482.0"
+       y="289.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect42" />
+    <text
+       x="510"
+       y="317"
+       class="tap"
+       id="text43">TAB</text>
+    <text
+       x="510.0"
+       y="343.0"
+       class="hold"
+       id="text44">FUN</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="136.0"
+       y="96.0"
+       width="28.0"
+       height="20.0"
+       class="combo"
+       id="rect44" />
+    <text
+       x="150.0"
+       y="106.0"
+       class="combo"
+       id="text45">V</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="196.0"
+       y="96.0"
+       width="28.0"
+       height="20.0"
+       class="combo"
+       id="rect45" />
+    <text
+       x="210.0"
+       y="106.0"
+       class="combo"
+       id="text46">Q</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="136.0"
+       y="247.0"
+       width="28.0"
+       height="20.0"
+       class="combo"
+       id="rect46" />
+    <text
+       x="150.0"
+       y="257.0"
+       class="combo"
+       id="text47">Z</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="616.0"
+       y="247.0"
+       width="28.0"
+       height="20.0"
+       class="combo"
+       id="rect47" />
+    <text
+       x="630.0"
+       y="257.0"
+       class="combo"
+       id="text48">/</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="196.0"
+       y="247.0"
+       width="28.0"
+       height="20.0"
+       class="combo"
+       id="rect48" />
+    <text
+       x="210.0"
+       y="257.0"
+       class="combo"
+       id="text49">ESC</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="556.0"
+       y="247.0"
+       width="28.0"
+       height="20.0"
+       class="combo"
+       id="rect49" />
+    <text
+       x="570.0"
+       y="257.0"
+       class="combo"
+       id="text50">-</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="106.0"
+       y="157.0"
+       width="28.0"
+       height="20.0"
+       class="combo"
+       id="rect50" />
+    <text
+       x="120.0"
+       y="167.0"
+       class="combo"
+       id="text51">{</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="166.0"
+       y="157.0"
+       width="28.0"
+       height="20.0"
+       class="combo"
+       id="rect51" />
+    <text
+       x="180.0"
+       y="167.0"
+       class="combo"
+       id="text52">[</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="226.0"
+       y="157.0"
+       width="28.0"
+       height="20.0"
+       class="combo"
+       id="rect52" />
+    <text
+       x="240.0"
+       y="167.0"
+       class="combo"
+       id="text53">(</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="286.0"
+       y="187.0"
+       width="28.0"
+       height="20.0"
+       class="combo"
+       id="rect53" />
+    <text
+       x="300.0"
+       y="197.0"
+       class="combo"
+       id="text54">&lt;</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="466.0"
+       y="187.0"
+       width="28.0"
+       height="20.0"
+       class="combo"
+       id="rect54" />
+    <text
+       x="480.0"
+       y="197.0"
+       class="combo"
+       id="text55">&gt;</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="526.0"
+       y="157.0"
+       width="28.0"
+       height="20.0"
+       class="combo"
+       id="rect55" />
+    <text
+       x="540.0"
+       y="167.0"
+       class="combo"
+       id="text56">)</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="586.0"
+       y="157.0"
+       width="28.0"
+       height="20.0"
+       class="combo"
+       id="rect56" />
+    <text
+       x="600.0"
+       y="167.0"
+       class="combo"
+       id="text57">]</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="646.0"
+       y="157.0"
+       width="28.0"
+       height="20.0"
+       class="combo"
+       id="rect57" />
+    <text
+       x="660.0"
+       y="167.0"
+       class="combo"
+       id="text58">}</text>
+    <path
+       d="M390.0,130.0 h-116.5 a26.0,26.0 0 0 0 -26.0,26.0 v21.0"
+       id="path58" />
+    <path
+       d="M390.0,130.0 h116.5 a26.0,26.0 0 0 1 26.0,26.0 v21.0"
+       id="path59" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="376.0"
+       y="120.0"
+       width="28.0"
+       height="20.0"
+       class="combo"
+       id="rect59" />
+    <text
+       x="390.0"
+       y="130.0"
+       class="combo"
+       id="text59">CW</text>
+    <path
+       d="M390.0,55.0 h-230.5 a26.0,26.0 0 0 0 -26.0,26.0 v36.0"
+       id="path60" />
+    <path
+       d="M390.0,55.0 h230.5 a26.0,26.0 0 0 1 26.0,26.0 v36.0"
+       id="path61" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="376.0"
+       y="45.0"
+       width="28.0"
+       height="20.0"
+       class="combo"
+       id="rect61" />
+    <text
+       x="390.0"
+       y="55.0"
+       class="combo"
+       id="text61">CL</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="556.0"
+       y="96.0"
+       width="28.0"
+       height="20.0"
+       class="combo"
+       id="rect62" />
+    <text
+       x="570.0"
+       y="106.0"
+       class="combo"
+       id="text62">BSP</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="616.0"
+       y="96.0"
+       width="28.0"
+       height="20.0"
+       class="combo"
+       id="rect63" />
+    <text
+       x="630.0"
+       y="106.0"
+       class="combo"
+       id="text63">DEL</text>
+    <path
+       d="M600.0,76.0 h-31.0 a26.0,26.0 0 0 0 -26.0,26.0 v15.0"
+       id="path63" />
+    <path
+       d="m 607.49702,328.38523 h -30.9847 a 25.987171,27.496681 0 0 1 -25.98717,-27.49668 v -15.86347"
+       id="path63-7"
+       style="fill:none;stroke:#808080;stroke-width:2.05625" />
+    <path
+       d="m 601.27944,328.34807 h 31.50892 a 26.426834,27.491254 0 0 0 26.42683,-27.49125 v -15.86034"
+       id="path63-7-5"
+       style="fill:none;stroke:#808080;stroke-width:2.07337" />
+    <path
+       d="M600.0,76.0 h31.0 a26.0,26.0 0 0 1 26.0,26.0 v15.0"
+       id="path64" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="586.0"
+       y="66.0"
+       width="28.0"
+       height="20.0"
+       class="combo"
+       id="rect64" />
+    <text
+       x="600.0"
+       y="76.0"
+       class="combo"
+       id="text64">C-BSP</text>
+    <g
+       id="g197"
+       transform="translate(-3.6055166,11.2733)">
+      <rect
+         rx="6"
+         ry="6"
+         x="601.9328"
+         y="307.19931"
+         width="28"
+         height="20"
+         class="combo"
+         id="rect61-3"
+         style="fill:#ccddff;stroke:#c9cccf;stroke-width:0" />
+      <text
+         x="616.66089"
+         y="318.15625"
+         class="combo"
+         id="text59-6"
+         style="font-size:11px;dominant-baseline:middle;text-anchor:middle">RET</text>
+    </g>
+  </g>
+  <g
+     class="layer-NUM"
+     id="g96">
+    <text
+       x="30.0"
+       y="375.0"
+       class="label"
+       id="text65">NUM:</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="92.0"
+       y="405.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect65" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="152.0"
+       y="405.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect66" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="212.0"
+       y="405.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect67" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="272.0"
+       y="435.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect68" />
+    <text
+       x="300.0"
+       y="463.0"
+       class="tap"
+       id="text69">*</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="452.0"
+       y="435.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect69" />
+    <text
+       x="480.0"
+       y="463.0"
+       class="tap"
+       id="text70">+</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="512.0"
+       y="405.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect70" />
+    <text
+       x="540.0"
+       y="433.0"
+       class="tap"
+       id="text71">7</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="572.0"
+       y="405.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect71" />
+    <text
+       x="600.0"
+       y="433.0"
+       class="tap"
+       id="text72">8</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="632.0"
+       y="405.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect72" />
+    <text
+       x="660.0"
+       y="433.0"
+       class="tap"
+       id="text73">9</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="32.0"
+       y="525.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect73" />
+    <text
+       x="60.0"
+       y="553.0"
+       class="tap"
+       id="text74">0</text>
+    <text
+       x="60.0"
+       y="579.0"
+       class="hold"
+       id="text75">LCTL</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="92.0"
+       y="465.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect75" />
+    <text
+       x="120.69299"
+       y="433.24765"
+       class="tap"
+       id="text76">6</text>
+    <text
+       x="120.0"
+       y="519.0"
+       class="hold"
+       id="text77">LALT</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="152.0"
+       y="465.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect77" />
+    <text
+       x="179.72478"
+       y="433.50211"
+       class="tap"
+       id="text78">5</text>
+    <text
+       x="180.0"
+       y="519.0"
+       class="hold"
+       id="text79">LGUI</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="212.0"
+       y="465.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect79" />
+    <text
+       x="239.49426"
+       y="434.84546"
+       class="tap"
+       id="text80">4</text>
+    <text
+       x="240.0"
+       y="519.0"
+       class="hold"
+       id="text81">LSFT</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="272.0"
+       y="495.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect81" />
+    <text
+       x="300.0"
+       y="523.0"
+       class="tap"
+       id="text82">/</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="452.0"
+       y="495.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect82" />
+    <text
+       x="480.0"
+       y="523.0"
+       class="tap"
+       id="text83">-</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="512.0"
+       y="465.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect83" />
+    <text
+       x="540.0"
+       y="493.0"
+       class="tap"
+       id="text84">4</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="572.0"
+       y="465.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect84" />
+    <text
+       x="600.0"
+       y="493.0"
+       class="tap"
+       id="text85">5</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="632.0"
+       y="465.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect85" />
+    <text
+       x="660.0"
+       y="493.0"
+       class="tap"
+       id="text86">6</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="692.0"
+       y="525.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect86" />
+    <text
+       x="720.0"
+       y="553.0"
+       class="tap"
+       id="text87">.</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="92.0"
+       y="525.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect87" />
+    <text
+       x="117.88949"
+       y="491.36157"
+       class="tap"
+       id="text88">3</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="152.0"
+       y="525.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect88" />
+    <text
+       x="178.6577"
+       y="491.8548"
+       class="tap"
+       id="text89">2</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="212.0"
+       y="525.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect89" />
+    <text
+       x="240.26453"
+       y="492.85034"
+       class="tap"
+       id="text90">1</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="512.0"
+       y="525.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect90" />
+    <text
+       x="540.0"
+       y="553.0"
+       class="tap"
+       id="text91">1</text>
+    <text
+       x="118.56818"
+       y="554.37482"
+       class="tap"
+       id="text66">9</text>
+    <text
+       x="177.69919"
+       y="554.0528"
+       class="tap"
+       id="text67">8</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="572.0"
+       y="525.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect91" />
+    <text
+       x="600.0"
+       y="553.0"
+       class="tap"
+       id="text92">2</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="632.0"
+       y="525.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect92" />
+    <text
+       x="660.0"
+       y="553.0"
+       class="tap"
+       id="text93">3</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="242.0"
+       y="585.0"
+       width="56.0"
+       height="56.0"
+       class="held"
+       id="rect93" />
+    <text
+       x="240.34811"
+       y="554.31104"
+       class="tap"
+       id="text68">7</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="302.0"
+       y="585.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect94" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="422.0"
+       y="585.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect95" />
+    <text
+       x="450.0"
+       y="613.0"
+       class="tap"
+       id="text95">E</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="482.0"
+       y="585.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect96" />
+    <text
+       x="510.0"
+       y="613.0"
+       class="tap"
+       id="text96">0</text>
+  </g>
+  <g
+     class="layer-NAV"
+     id="g128">
+    <text
+       x="30.0"
+       y="671.0"
+       class="label"
+       id="text97">NAV:</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="92.0"
+       y="701.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect97" />
+    <text
+       x="120.0"
+       y="729.0"
+       class="tap"
+       id="text98">INSERT</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="152.0"
+       y="701.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect98" />
+    <text
+       x="180.0"
+       y="729.0"
+       class="tap"
+       id="text99">UP</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="212.0"
+       y="701.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect99" />
+    <text
+       x="240.0"
+       y="729.0"
+       class="tap"
+       id="text100">BSPC</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="272.0"
+       y="731.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect100" />
+    <text
+       x="300.0"
+       y="759.0"
+       class="tap"
+       id="text101"><tspan
+         x="300.0"
+         dy="-0.6em"
+         id="tspan100">VOL</tspan><tspan
+         x="300.0"
+         dy="1.2em"
+         id="tspan101">DN</tspan></text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="452.0"
+       y="731.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect101" />
+    <text
+       x="480.0"
+       y="759.0"
+       class="tap"
+       id="text103"><tspan
+         x="480.0"
+         dy="-0.6em"
+         id="tspan102">VOL</tspan><tspan
+         x="480.0"
+         dy="1.2em"
+         id="tspan103">UP</tspan></text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="512.0"
+       y="701.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect103" />
+    <text
+       x="540.0"
+       y="729.0"
+       class="tap"
+       id="text104">BSPC</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="572.0"
+       y="701.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect104" />
+    <text
+       x="600.0"
+       y="729.0"
+       class="tap"
+       id="text105">DEL</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="632.0"
+       y="701.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect105" />
+    <text
+       x="660.0"
+       y="729.0"
+       class="tap"
+       id="text106">INSERT</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="32.0"
+       y="821.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect106" />
+    <text
+       x="60.0"
+       y="849.0"
+       class="tap"
+       id="text107">LCTL</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="92.0"
+       y="761.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect107" />
+    <text
+       x="120.0"
+       y="789.0"
+       class="tap"
+       id="text108">LEFT</text>
+    <text
+       x="120.0"
+       y="815.0"
+       class="hold"
+       id="text109">LALT</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="152.0"
+       y="761.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect109" />
+    <text
+       x="180.0"
+       y="789.0"
+       class="tap"
+       id="text110">DOWN</text>
+    <text
+       x="180.0"
+       y="815.0"
+       class="hold"
+       id="text111">LGUI</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="212.0"
+       y="761.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect111" />
+    <text
+       x="240.0"
+       y="789.0"
+       class="tap"
+       id="text112">RIGHT</text>
+    <text
+       x="240.0"
+       y="815.0"
+       class="hold"
+       id="text113">LSFT</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="272.0"
+       y="791.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect113" />
+    <text
+       x="300.0"
+       y="819.0"
+       class="tap"
+       id="text114">MUTE</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="452.0"
+       y="791.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect114" />
+    <text
+       x="480"
+       y="819"
+       class="tap"
+       id="text115" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="512.0"
+       y="761.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect115" />
+    <text
+       x="540"
+       y="789"
+       class="tap"
+       id="text116"><tspan
+         sodipodi:role="line"
+         id="tspan198"
+         x="540"
+         y="789">LEFT</tspan></text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="572.0"
+       y="761.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect116" />
+    <text
+       x="600"
+       y="789"
+       class="tap"
+       id="text117">DOWN</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="632.0"
+       y="761.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect117" />
+    <text
+       x="660"
+       y="789"
+       class="tap"
+       id="text118">UP</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="692.0"
+       y="821.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect118" />
+    <text
+       x="720"
+       y="849"
+       class="tap"
+       id="text119">RIGHT</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="92.0"
+       y="821.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect119" />
+    <text
+       x="120.0"
+       y="849.0"
+       class="tap"
+       id="text120">HOME</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="152.0"
+       y="821.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect120" />
+    <text
+       x="180.0"
+       y="849.0"
+       class="tap"
+       id="text121"><tspan
+         x="180.0"
+         dy="-0.6em"
+         id="tspan120">PG</tspan><tspan
+         x="180.0"
+         dy="1.2em"
+         id="tspan121">DN</tspan></text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="212.0"
+       y="821.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect121" />
+    <text
+       x="240.0"
+       y="849.0"
+       class="tap"
+       id="text122">END</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="512.0"
+       y="821.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect122" />
+    <text
+       x="540.0"
+       y="849.0"
+       class="tap"
+       id="text123">HOME</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="572.0"
+       y="821.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect123" />
+    <text
+       x="600.0"
+       y="849.0"
+       class="tap"
+       id="text124"><tspan
+         x="600.0"
+         dy="-0.6em"
+         id="tspan123">PG</tspan><tspan
+         x="600.0"
+         dy="1.2em"
+         id="tspan124">UP</tspan></text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="632.0"
+       y="821.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect124" />
+    <text
+       x="660.0"
+       y="849.0"
+       class="tap"
+       id="text125">END</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="242.0"
+       y="881.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect125" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="302.0"
+       y="881.0"
+       width="56.0"
+       height="56.0"
+       class="held"
+       id="rect126" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="422.0"
+       y="881.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect127" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="482.0"
+       y="881.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect128" />
+    <text
+       x="479.39264"
+       y="819.61365"
+       class="tap"
+       id="text35">MUTE</text>
+  </g>
+  <g
+     class="layer-SYM"
+     id="g156">
+    <text
+       x="30.0"
+       y="967.0"
+       class="label"
+       id="text128">SYM:</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="92.0"
+       y="997.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect129" />
+    <text
+       x="120.0"
+       y="1025.0"
+       class="tap"
+       id="text129">`</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="152.0"
+       y="997.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect130" />
+    <text
+       x="180.0"
+       y="1025.0"
+       class="tap"
+       id="text130">&quot;</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="212.0"
+       y="997.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect131" />
+    <text
+       x="240"
+       y="1025"
+       class="tap"
+       id="text131"><tspan
+         sodipodi:role="line"
+         x="240"
+         y="1025"
+         id="tspan3">ALT + :</tspan></text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="272.0"
+       y="1027.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect132" />
+    <text
+       x="300"
+       y="1055"
+       class="tap"
+       id="text132">{</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="452.0"
+       y="1027.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect133" />
+    <text
+       x="480"
+       y="1055"
+       class="tap"
+       id="text133">}</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="512.0"
+       y="997.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect134" />
+    <text
+       x="540.0"
+       y="1025.0"
+       class="tap"
+       id="text134">\</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="572.0"
+       y="997.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect135" />
+    <text
+       x="600.0"
+       y="1025.0"
+       class="tap"
+       id="text135">|</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="632.0"
+       y="997.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect136" />
+    <text
+       x="660"
+       y="1025"
+       class="tap"
+       id="text136">&lt;</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="32.0"
+       y="1117.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect137" />
+    <text
+       x="60.0"
+       y="1145.0"
+       class="tap"
+       id="text137">!</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="92.0"
+       y="1057.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect138" />
+    <text
+       x="120.0"
+       y="1085.0"
+       class="tap"
+       id="text138">@</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="152.0"
+       y="1057.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect139" />
+    <text
+       x="180.0"
+       y="1085.0"
+       class="tap"
+       id="text139">#</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="212.0"
+       y="1057.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect140" />
+    <text
+       x="240.0"
+       y="1085.0"
+       class="tap"
+       id="text140">$</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="272.0"
+       y="1087.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect141" />
+    <text
+       x="300.0"
+       y="1115.0"
+       class="tap"
+       id="text141">(</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="452.0"
+       y="1087.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect142" />
+    <text
+       x="480.0"
+       y="1115.0"
+       class="tap"
+       id="text142">)</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="512.0"
+       y="1057.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect143" />
+    <text
+       x="540.0"
+       y="1085.0"
+       class="tap"
+       id="text143">&amp;</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="572.0"
+       y="1057.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect144" />
+    <text
+       x="600.0"
+       y="1085.0"
+       class="tap"
+       id="text144">*</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="632.0"
+       y="1057.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect145" />
+    <text
+       x="660.0"
+       y="1085.0"
+       class="tap"
+       id="text145">%</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="692.0"
+       y="1117.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect146" />
+    <text
+       x="720.0"
+       y="1145.0"
+       class="tap"
+       id="text146">^</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="92.0"
+       y="1117.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect147" />
+    <text
+       x="120.0"
+       y="1145.0"
+       class="tap"
+       id="text147">~</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="152.0"
+       y="1117.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect148" />
+    <text
+       x="180.0"
+       y="1145.0"
+       class="tap"
+       id="text148">'</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="212.0"
+       y="1117.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect149" />
+    <text
+       x="240.0"
+       y="1145.0"
+       class="tap"
+       id="text149">_</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="512.0"
+       y="1117.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect150" />
+    <text
+       x="540.0"
+       y="1145.0"
+       class="tap"
+       id="text150">-</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="572.0"
+       y="1117.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect151" />
+    <text
+       x="600.0"
+       y="1145.0"
+       class="tap"
+       id="text151">+</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="632.0"
+       y="1117.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect152" />
+    <text
+       x="660.0"
+       y="1145.0"
+       class="tap"
+       id="text152">=</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="242.0"
+       y="1177.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect153" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="302.0"
+       y="1177.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect154" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="422.0"
+       y="1177.0"
+       width="56.0"
+       height="56.0"
+       class="held"
+       id="rect155" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="482.0"
+       y="1177.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect156" />
+  </g>
+  <g
+     class="layer-FUN"
+     id="g184">
+    <text
+       x="30.0"
+       y="1263.0"
+       class="label"
+       id="text156">FUN:</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="92.0"
+       y="1293.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect157" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="152.0"
+       y="1293.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect158" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="212.0"
+       y="1293.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect159" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="272.0"
+       y="1323.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect160" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="452.0"
+       y="1323.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect161" />
+    <text
+       x="480.0"
+       y="1351.0"
+       class="tap"
+       id="text161">F12</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="512.0"
+       y="1293.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect162" />
+    <text
+       x="540.0"
+       y="1321.0"
+       class="tap"
+       id="text162">F7</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="572.0"
+       y="1293.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect163" />
+    <text
+       x="600.0"
+       y="1321.0"
+       class="tap"
+       id="text163">F8</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="632.0"
+       y="1293.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect164" />
+    <text
+       x="660.0"
+       y="1321.0"
+       class="tap"
+       id="text164">F9</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="32.0"
+       y="1413.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect165" />
+    <text
+       x="60.0"
+       y="1441.0"
+       class="tap"
+       id="text165">BOOT</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="92.0"
+       y="1353.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect166" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="152.0"
+       y="1353.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect167" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="212.0"
+       y="1353.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect168" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="272.0"
+       y="1383.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect169" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="452.0"
+       y="1383.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect170" />
+    <text
+       x="480.0"
+       y="1411.0"
+       class="tap"
+       id="text170">F11</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="512.0"
+       y="1353.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect171" />
+    <text
+       x="540.0"
+       y="1381.0"
+       class="tap"
+       id="text171">F4</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="572.0"
+       y="1353.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect172" />
+    <text
+       x="600.0"
+       y="1381.0"
+       class="tap"
+       id="text172">F5</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="632.0"
+       y="1353.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect173" />
+    <text
+       x="660.0"
+       y="1381.0"
+       class="tap"
+       id="text173">F6</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="692.0"
+       y="1413.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect174" />
+    <text
+       x="720.0"
+       y="1441.0"
+       class="tap"
+       id="text174">F10</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="92.0"
+       y="1413.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect175" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="152.0"
+       y="1413.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect176" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="212.0"
+       y="1413.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect177" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="512.0"
+       y="1413.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect178" />
+    <text
+       x="540.0"
+       y="1441.0"
+       class="tap"
+       id="text178">F1</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="572.0"
+       y="1413.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect179" />
+    <text
+       x="600.0"
+       y="1441.0"
+       class="tap"
+       id="text179">F2</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="632.0"
+       y="1413.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect180" />
+    <text
+       x="660.0"
+       y="1441.0"
+       class="tap"
+       id="text180">F3</text>
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="242.0"
+       y="1473.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect181" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="302.0"
+       y="1473.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect182" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="422.0"
+       y="1473.0"
+       width="56.0"
+       height="56.0"
+       class=""
+       id="rect183" />
+    <rect
+       rx="6.0"
+       ry="6.0"
+       x="482.0"
+       y="1473.0"
+       width="56.0"
+       height="56.0"
+       class="held"
+       id="rect184" />
+  </g>
+</svg>
