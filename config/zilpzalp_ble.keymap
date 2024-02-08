@@ -41,9 +41,9 @@
 
             bindings = <
                                &kp INSERT     &kp UP         &kp BSPC        &kp C_VOL_DN   &kp C_VOL_UP   &kp LC(LEFT)   &kp LC(RIGHT)  &kp INSERT
-                &kp LCTRL      &hl LALT LEFT  &hl LGUI DOWN  &hl LSHFT RIGHT &kp C_MUTE     &kp C_MUTE     &kp LEFT       &kp DOWN       &kp UP         &kp RIGHT
+                &kp ESCAPE     &hl LALT LEFT  &hl LGUI DOWN  &hl LSHFT RIGHT &kp C_MUTE     &kp C_MUTE     &kp LEFT       &kp DOWN       &kp UP         &kp RIGHT
                                &kp HOME       &kp PG_DN      &kp END                                       &kp HOME       &kp PG_UP      &kp END
-                                                             &trans          &trans         &trans         &trans
+                                                             &trans          &trans         &kp ENTER      &kp BSPC
             >;
         };
         symbols {
