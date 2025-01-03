@@ -171,11 +171,40 @@ combo_##NAME { \
             mods = <(MOD_LSFT|MOD_RSFT)>;
         };
 
-        td0: tap_dance_0 {
+        td_r: td_r {
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
             tapping-term-ms = <200>;
             bindings = <&hl LCTRL R>, <&kp R>;
         };
+
+        td_s: td_s {
+            compatible = "zmk,behavior-tap-dance";
+            #binding-cells = <0>;
+            tapping-term-ms = <200>;
+            bindings = <&hl LALT S>, <&kp S>;
+        };
+
+        td_t: td_t {
+            compatible = "zmk,behavior-tap-dance";
+            #binding-cells = <0>;
+            tapping-term-ms = <200>;
+            bindings = <&hl LGUI T>, <&kp T>;
+        };
+
+        td_h: td_h {
+            compatible = "zmk,behavior-tap-dance";
+            #binding-cells = <0>;
+            tapping-term-ms = <200>;
+            bindings = <&hl LSHIFT H>, <&kp H>;
+        };
+
+        td_k: td_k {
+            compatible = "zmk,behavior-tap-dance";
+            #binding-cells = <0>;
+            tapping-term-ms = <200>;
+            bindings = <&hl LS(LGUI) K>, <&kp K>;
+        };
+
     };
 };
