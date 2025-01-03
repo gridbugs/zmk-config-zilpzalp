@@ -114,6 +114,7 @@ combo_##NAME { \
 / {
 
     behaviors {
+
         hl: homerow_mods_left {
             compatible = "zmk,behavior-hold-tap";
             label = "homerow mods left";
@@ -168,6 +169,13 @@ combo_##NAME { \
             #binding-cells = <0>;
             bindings = <&kp COMMA>, <&kp SEMI>;
             mods = <(MOD_LSFT|MOD_RSFT)>;
+        };
+
+        td0: tap_dance_0 {
+            compatible = "zmk,behavior-tap-dance";
+            #binding-cells = <0>;
+            tapping-term-ms = <200>;
+            bindings = <&hl LCTRL R>, <&kp R>;
         };
     };
 };
