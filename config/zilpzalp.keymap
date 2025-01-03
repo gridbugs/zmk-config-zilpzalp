@@ -23,10 +23,10 @@
             label = "APT";
 
             bindings = <
-                           &kp W          &kp F          &kp P          &kp B                  &kp J          &kp L          &kp U          &kp Y
-                &td_r      &td_s          &td_t          &td_h          &td_k                  &td_x          &td_n          &td_a          &td_i         &td_o
-                           &kp C          &kp G          &kp D                                                &kp M          &comsem        &dotcol
-                                                         &my_lt NUM SQT &my_lt NAV SPACE       &my_lt SYM E   &my_lt FUN TAB
+                               &kp W          &kp F          &kp P          &kp B                  &kp J          &kp L          &kp U          &kp Y
+                &hl LCTRL R    &hl LALT S     &hl LGUI T     &hl LSHFT H    &hl LS(LGUI) K     &hr LS(LGUI) X     &hr RSHFT N    &hr RGUI A     &hr LALT I     &hr RCTRL O
+                               &kp C          &kp G          &kp D                                        &kp M          &comsem        &dotcol
+                                                             &my_lt NUM SQT &my_lt NAV SPACE &my_lt SYM E &my_lt FUN TAB
             >;
         };
         numbers {
