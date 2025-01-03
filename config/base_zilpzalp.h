@@ -197,6 +197,7 @@ combo_##NAME { \
             #binding-cells = <0>;
             tapping-term-ms = <200>;
             bindings = <&hl LSHIFT H>, <&kp H>;
+            hold-trigger-key-positions = <4 5 6 7 13 14 15 16 17 21 22 23 24 25 26 27>;
         };
 
         td_k: td_k {
@@ -206,5 +207,39 @@ combo_##NAME { \
             bindings = <&hl LS(LGUI) K>, <&kp K>;
         };
 
+        td_x: td_x {
+            compatible = "zmk,behavior-tap-dance";
+            #binding-cells = <0>;
+            tapping-term-ms = <200>;
+            bindings = <&hl RS(RGUI) X>, <&kp X>;
+        };
+
+        td_n: td_n {
+            compatible = "zmk,behavior-tap-dance";
+            #binding-cells = <0>;
+            tapping-term-ms = <200>;
+            bindings = <&hl RSHIFT N>, <&kp N>;
+        };
+
+        td_a: td_a {
+            compatible = "zmk,behavior-tap-dance";
+            #binding-cells = <0>;
+            tapping-term-ms = <200>;
+            bindings = <&hl RGUI A>, <&kp A>;
+        };
+
+        td_i: td_i {
+            compatible = "zmk,behavior-tap-dance";
+            #binding-cells = <0>;
+            tapping-term-ms = <200>;
+            bindings = <&hl RALT I>, <&kp I>;
+        };
+
+        td_o: td_o {
+            compatible = "zmk,behavior-tap-dance";
+            #binding-cells = <0>;
+            tapping-term-ms = <200>;
+            bindings = <&hl RCTRL O>, <&kp O>;
+        };
     };
 };
