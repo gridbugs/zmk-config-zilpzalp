@@ -197,7 +197,6 @@ combo_##NAME { \
             #binding-cells = <0>;
             tapping-term-ms = <200>;
             bindings = <&hl LSHIFT H>, <&kp H>;
-            hold-trigger-key-positions = <4 5 6 7 13 14 15 16 17 21 22 23 24 25 26 27>;
         };
 
         td_k: td_k {
