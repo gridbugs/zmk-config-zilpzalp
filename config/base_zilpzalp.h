@@ -122,7 +122,7 @@ combo_##NAME { \
             // flavor = "tap-preferred";
             flavor = "balanced";
             tapping-term-ms = <250>;
-            quick-tap-ms = <2000>;
+            quick-tap-ms = <500>;
             // global-quick-tap;
             bindings = <&kp>, <&kp>;
             // opposite side hand keys
@@ -135,7 +135,7 @@ combo_##NAME { \
             // flavor = "tap-preferred";
             flavor = "balanced";
             tapping-term-ms = <250>;
-            quick-tap-ms = <200>;
+            quick-tap-ms = <500>;
             // global-quick-tap;
             bindings = <&kp>, <&kp>;
             // opposite side hand keys
@@ -148,8 +148,8 @@ combo_##NAME { \
             #binding-cells = <2>;
             // flavor = "tap-preferred";
             flavor = "balanced";
-            tapping-term-ms = <150>;
-            quick-tap-ms = <100>;
+            tapping-term-ms = <250>;
+            quick-tap-ms = <500>;
             // global-quick-tap;
             bindings = <&mo &kp>, <&kp>;
             // non-thumb keys
