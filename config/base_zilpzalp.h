@@ -122,7 +122,7 @@ combo_##NAME { \
             // flavor = "tap-preferred";
             flavor = "balanced";
             tapping-term-ms = <250>;
-            quick-tap-ms = <200>;
+            quick-tap-ms = <2000>;
             // global-quick-tap;
             bindings = <&kp>, <&kp>;
             // opposite side hand keys
